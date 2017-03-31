@@ -5,4 +5,4 @@
 <img src = "https://github.com/twirta7621/Pygame-Project/blob/master/Game_Plans/Capture.PNG" width = "200" height = "150">
 <img src = "https://github.com/twirta7621/Pygame-Project/blob/master/Game_Plans/capture%203.PNG" width = "200" height = "150">
 <a href= https://youtu.be/_GikMdhAhv0> Tutorial for installing Python and Pygame </a> <br> <a href= http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame> Pygame Wheel File </a>
-<font size="3" color="red">This is some text!</font>
+<font size="3" color="green">This is some text!</font>
