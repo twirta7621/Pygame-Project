@@ -7,4 +7,8 @@
 <a href= https://youtu.be/_GikMdhAhv0> Tutorial for installing Python and Pygame </a> <br> <a href= http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame> Pygame Wheel File </a>
 <p>
 <font size="3" face= arial color= "red">
-hello </font></p>
+hello
+</font></p>
+<p style="Font-family:calibri; Font-size:40px; color:green">
+hi
+</p>
